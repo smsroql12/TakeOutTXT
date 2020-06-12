@@ -1,0 +1,10 @@
+D:\Source File\C#\TakeOutTXT\bin\Debug\TakeOutTXT.exe.config
+D:\Source File\C#\TakeOutTXT\bin\Debug\TakeOutTXT.exe
+D:\Source File\C#\TakeOutTXT\bin\Debug\TakeOutTXT.pdb
+D:\Source File\C#\TakeOutTXT\obj\Debug\TakeOutTXT.Form1.resources
+D:\Source File\C#\TakeOutTXT\obj\Debug\TakeOutTXT.Properties.Resources.resources
+D:\Source File\C#\TakeOutTXT\obj\Debug\TakeOutTXT.csproj.GenerateResource.cache
+D:\Source File\C#\TakeOutTXT\obj\Debug\TakeOutTXT.csproj.CoreCompileInputs.cache
+D:\Source File\C#\TakeOutTXT\obj\Debug\TakeOutTXT.exe
+D:\Source File\C#\TakeOutTXT\obj\Debug\TakeOutTXT.pdb
+D:\Source File\C#\TakeOutTXT\obj\Debug\TakeOutTXT.csprojAssemblyReference.cache
