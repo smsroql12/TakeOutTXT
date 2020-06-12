@@ -1,5 +1,6 @@
 # TakeOutTXT
 txt 파일 검색 프로그램
+제작자 : smsroql12
 
 ## ScreenShots
 <div>
